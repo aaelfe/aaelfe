@@ -1,6 +1,5 @@
 - Hey! I'm Allan.
 - I am an undergraduate student studying computer science at The University of Alabama. (Roll Tide)
-- Currently I'm learning basic web development through The Odin Project. (theodinproject.com)
 - aaelfe@crimson.ua.edu
 <!---
 aaelfe/aaelfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
