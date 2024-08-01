@@ -1,1 +1,1 @@
-I care about satisfaction and complex problems, among other things
+I care about oddly satisfying stuff and complex problems
